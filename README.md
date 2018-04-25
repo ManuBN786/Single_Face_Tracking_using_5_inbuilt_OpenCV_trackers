@@ -6,3 +6,5 @@ Description: Detect face in the first frame using OpenCV's Haar cascade and trac
 Requirements:
 
 OpenCV 3.3 and opencv_contrib
+
+Demo Video: https://www.youtube.com/watch?v=81y7AgRZLvM
